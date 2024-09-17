@@ -6,7 +6,6 @@ This repository contains Selenium-based automation scripts, written in Python an
 
 Features:
 
-
 Automated login functionality for Swag Labs
 
 Menubar interaction and validation
@@ -20,6 +19,7 @@ Dropdown menu handling and interaction
 Clear Python scripts using Selenium WebDriver
 
 Developed using PyCharm IDE
+
 
 
 Technologies:
