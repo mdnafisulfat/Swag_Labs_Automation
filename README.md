@@ -1,10 +1,10 @@
 # Swag_Labs_Automation_with_Python_and_Selenium
 
-Description:
+# Description:
 
 This repository contains Selenium-based automation scripts, written in Python and developed using PyCharm, for testing various features of the Swag Labs e-commerce website. The scripts automate key functionality such as login verification, menu bar interaction, adding/removing items from the cart, product item validation, and handling the dropdown menu. These scripts are designed for ease of use, making them suitable for both beginners and intermediate testers looking to automate web testing.
 
-Features:
+# Features:
 
 Automated login functionality for Swag Labs
 
@@ -21,8 +21,7 @@ Clear Python scripts using Selenium WebDriver
 Developed using PyCharm IDE
 
 
-
-Technologies:
+# Technologies:
 
 Language: Python
 
